@@ -62,9 +62,7 @@ Das Projekt ist so konzipiert, dass es mit den geläufigsten FPV-Drohnen kompati
 1. **Hardware testen / drucken **
     - D500 Lidar testen. Dazu kann das Waveshare Programm verwendet werden eine genau Anleitung findest du Hier https://www.waveshare.com/wiki/D500_LiDAR_Kit
     - Das .stl File aus [Schaltplan & Hardware-Dateien](./hardware/) herunterladen und mit TPU drucken. Dies dauert ungefähr 2 Stunden. 
-    - Lidar, ESP32 und Flightcontroller gemäß [Schaltplan](#) verbinden
-
-
+    
 2. **Software flashen**
     - Arduino-IDE einrichten und ESP32-Projekt aus dem Ordner `/software/` öffnen
     - Bibliotheken installieren (siehe oben)
@@ -77,12 +75,17 @@ Das Projekt ist so konzipiert, dass es mit den geläufigsten FPV-Drohnen kompati
     - MSP auf dem entsprechenden UART aktivieren
     - Speichern und FC neu starten
 
-4. **System testen**
-    - Drohne ohne Propeller starten
-    - Lidar-Ausgabe und Ausweichmanöver am Serial Monitor oder via Telemetrie prüfen
+4. **Bausatz zusammenbauen**
+    - 3D Druck von allen Stützen befreien.
+    - Lidar, ESP32 und Flightcontroller gemäß [Schaltplan](#) verbinden
+    - Falls das ESP und der Lidar keinen Strom bekommen kann dies daran liegen, dass der 5V Port am FLightcontroller nur mit angeschlossenem LIPO Strom erhält
 
-5. **Flugtests**
-    - Ich habe zum Zeitpunkt der Abgabe der Projektdokumentation noch keinen Flugtest druchführen können.
+5. **System testen**
+    - Drohne ohne Propeller starten
+    - Lidar-Ausgabe und Ausweichmanöver am Serial Monitor oder via Betaflight werten prüfen
+
+6. **Flugtests**
+    - Ich habe zum Zeitpunkt der Abgabe der Projektdokumentation noch keinen Flugtest druchführen können. Zum Momentanen Stand kann ich bezüglich Sicherheit und Zuverlässigkeit keine Garantien geben. Sie sind selbst für Schäden haftent. Es wird keine Haftung für die Software / Hardware übernommen. 
     - [Sicherheitsregeln beachten!](https://www.bazl.admin.ch/bazl/de/home/drohnen/open1.html)
 
 ---
