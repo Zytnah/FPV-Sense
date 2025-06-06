@@ -1,5 +1,8 @@
 # FPV-Sense
 
+![Screenshot 2025-06-06 164422](https://github.com/user-attachments/assets/b2163677-7c08-4599-b3ef-6f799d8c01f2)
+
+
 FPV-Sense ist ein Forschungs- und Entwicklungsprojekt aus dem Bachelorstudium Digital Ideation (Fokus Informatik) an der Hochschule Luzern.  
 Das Ziel ist die Entwicklung eines Sensorsystems zur Verbesserung des Einstiegs von neuen FPV-Piloten. Dabei fokusiere ich mich vorallem auf den Sprung vom Simulator zum ersten Flug, in der FPV-Community Maidenflug gennant.
 Es gibt viele Hürden beim Einstieg in das FPV Hobby, mit einem System was neue Piloten bei Fliegen eingreiffen kann mächte ich diese minimieren.
