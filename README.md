@@ -61,8 +61,9 @@ Das Projekt ist so konzipiert, dass es mit den geläufigsten FPV-Drohnen kompati
 ---
 
 ## Schritt-für-Schritt-Anleitung
+![Screenshot 2025-06-06 165213](https://github.com/user-attachments/assets/9b862206-53ce-4d50-b089-8161763aa617)(https://youtu.be/ff37cJdk86Q)
 
-https://www.youtube.com/watch?v=ff37cJdk86Q
+    
 
 1. **Hardware testen / drucken **
     - D500 Lidar testen. Dazu kann das Waveshare Programm verwendet werden eine genau Anleitung findest du Hier https://www.waveshare.com/wiki/D500_LiDAR_Kit
