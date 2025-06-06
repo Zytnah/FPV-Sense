@@ -1,6 +1,6 @@
 # FPV-Sense
 
-[![Screenshot 2025-06-06 164422](https://github.com/user-attachments/assets/b2163677-7c08-4599-b3ef-6f799d8c01f2)](https://youtu.be/ff37cJdk86Q)
+![![Screenshot 2025-06-06 164422](https://github.com/user-attachments/assets/b2163677-7c08-4599-b3ef-6f799d8c01f2)](https://youtu.be/ff37cJdk86Q)
 
 
 FPV-Sense ist ein Forschungs- und Entwicklungsprojekt aus dem Bachelorstudium Digital Ideation (Fokus Informatik) an der Hochschule Luzern.  
@@ -61,9 +61,9 @@ Das Projekt ist so konzipiert, dass es mit den geläufigsten FPV-Drohnen kompati
 ---
 
 ## Schritt-für-Schritt-Anleitung
-![Screenshot 2025-06-06 165213](https://github.com/user-attachments/assets/9b862206-53ce-4d50-b089-8161763aa617)(https://youtu.be/ff37cJdk86Q)
 
-    
+Hier kommt ihr zur Video Anleitung.
+https://youtu.be/ff37cJdk86Q
 
 1. **Hardware testen / drucken **
     - D500 Lidar testen. Dazu kann das Waveshare Programm verwendet werden eine genau Anleitung findest du Hier https://www.waveshare.com/wiki/D500_LiDAR_Kit
