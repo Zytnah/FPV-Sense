@@ -1,6 +1,6 @@
 # FPV-Sense
 
-![Screenshot 2025-06-06 164422](https://github.com/user-attachments/assets/b2163677-7c08-4599-b3ef-6f799d8c01f2)
+[![Screenshot 2025-06-06 164422](https://github.com/user-attachments/assets/b2163677-7c08-4599-b3ef-6f799d8c01f2)](https://youtu.be/ff37cJdk86Q)
 
 
 FPV-Sense ist ein Forschungs- und Entwicklungsprojekt aus dem Bachelorstudium Digital Ideation (Fokus Informatik) an der Hochschule Luzern.  
