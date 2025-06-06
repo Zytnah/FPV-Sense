@@ -98,7 +98,7 @@ https://youtu.be/ff37cJdk86Q
 
 ## Download
 
-- [Firmware und Beispielcode (ESP32)](./software/)
+- [Firmware (ESP32)](./software/)
 - [Schaltplan & Hardware-Dateien](./hardware/)
 - [Bachelorarbeit als PDF](./docs/Bachelorarbeit_FPVSense.pdf)
 
